@@ -1,2 +1,2 @@
 # Mathematica-NASA-WindSpacecraft
-Master's Project Related
+Mathematica scripts/files used for my masters project  
